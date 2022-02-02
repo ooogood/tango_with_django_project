@@ -16,6 +16,7 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path
 from django.urls import include
+# chapter 3
 from rango import views
 # chapter 4
 from django.conf import settings
